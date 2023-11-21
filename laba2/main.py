@@ -1,7 +1,7 @@
 import telebot
 import random
 
-# Замените 'YOUR_TELEGRAM_BOT_TOKEN' на токен вашего бота в Telegram
+# токен бота в Telegram
 TELEGRAM_BOT_TOKEN = '6425458022:AAGoMTSsDwGp1OSiJPU7Ao2z7-T-mDYoCKA'
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
