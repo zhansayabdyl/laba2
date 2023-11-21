@@ -1,5 +1,4 @@
 import telebot
-import random
 
 # токен бота в Telegram
 TELEGRAM_BOT_TOKEN = '6425458022:AAGoMTSsDwGp1OSiJPU7Ao2z7-T-mDYoCKA'
